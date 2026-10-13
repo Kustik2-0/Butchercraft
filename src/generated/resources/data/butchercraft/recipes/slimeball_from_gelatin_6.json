@@ -3,22 +3,22 @@
   "category": "misc",
   "ingredients": [
     {
-      "tag": "forge:gelatin"
+      "item": "butchercraft:gelatin"
     },
     {
-      "tag": "forge:gelatin"
+      "item": "butchercraft:gelatin"
     },
     {
-      "tag": "forge:gelatin"
+      "item": "butchercraft:gelatin"
     },
     {
-      "tag": "forge:gelatin"
+      "item": "butchercraft:gelatin"
     },
     {
-      "tag": "forge:gelatin"
+      "item": "butchercraft:gelatin"
     },
     {
-      "tag": "forge:gelatin"
+      "item": "butchercraft:gelatin"
     },
     {
       "item": "minecraft:water_bucket"

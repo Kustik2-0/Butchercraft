@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "tag": "forge:gelatin"
+      "item": "butchercraft:gelatin"
     },
     {
       "item": "minecraft:water_bucket"

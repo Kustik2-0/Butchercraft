@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:gelatin"
+    },
+    {
+      "tag": "forge:gelatin"
+    },
+    {
+      "tag": "forge:gelatin"
+    },
+    {
+      "tag": "forge:gelatin"
+    },
+    {
+      "tag": "forge:gelatin"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "count": 5,
+    "item": "minecraft:slime_ball"
+  }
+}

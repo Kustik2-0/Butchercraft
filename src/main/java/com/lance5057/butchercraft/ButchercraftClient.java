@@ -115,17 +115,17 @@ public class ButchercraftClient {
 		SkullBlockRenderer.SKIN_BY_TYPE.put(AnimalHeadBlock.Types.SHEEP,
 				ResourceLocation.withDefaultNamespace("textures/entity/sheep/sheep.png"));
 		SkullBlockRenderer.SKIN_BY_TYPE.put(AnimalHeadBlock.Types.COW_SKULL,
-				ResourceLocation.fromNamespaceAndPath(Butchercraft.MOD_ID, "textures/entity/cow.png"));
+				ResourceLocation.fromNamespaceAndPath(Butchercraft.MOD_ID, "textures/block/entity/cow.png"));
 		SkullBlockRenderer.SKIN_BY_TYPE.put(AnimalHeadBlock.Types.CHICKEN_SKULL,
-				ResourceLocation.fromNamespaceAndPath(Butchercraft.MOD_ID, "textures/entity/chicken.png"));
+				ResourceLocation.fromNamespaceAndPath(Butchercraft.MOD_ID, "textures/block/entity/chicken.png"));
 		SkullBlockRenderer.SKIN_BY_TYPE.put(AnimalHeadBlock.Types.GOAT_SKULL,
-				ResourceLocation.fromNamespaceAndPath(Butchercraft.MOD_ID, "textures/entity/goat.png"));
+				ResourceLocation.fromNamespaceAndPath(Butchercraft.MOD_ID, "textures/block/entity/goat.png"));
 		SkullBlockRenderer.SKIN_BY_TYPE.put(AnimalHeadBlock.Types.PIG_SKULL,
-				ResourceLocation.fromNamespaceAndPath(Butchercraft.MOD_ID, "textures/entity/pig.png"));
+				ResourceLocation.fromNamespaceAndPath(Butchercraft.MOD_ID, "textures/block/entity/pig.png"));
 		SkullBlockRenderer.SKIN_BY_TYPE.put(AnimalHeadBlock.Types.RABBIT_SKULL,
-				ResourceLocation.fromNamespaceAndPath(Butchercraft.MOD_ID, "textures/entity/rabbit.png"));
+				ResourceLocation.fromNamespaceAndPath(Butchercraft.MOD_ID, "textures/block/entity/rabbit.png"));
 		SkullBlockRenderer.SKIN_BY_TYPE.put(AnimalHeadBlock.Types.SHEEP_SKULL,
-				ResourceLocation.fromNamespaceAndPath(Butchercraft.MOD_ID, "textures/entity/sheep.png"));
+				ResourceLocation.fromNamespaceAndPath(Butchercraft.MOD_ID, "textures/block/entity/sheep.png"));
 
 		SkullBlockRenderer.SKIN_BY_TYPE.put(AnimalHeadBlock.Types.RABBIT_BLACK,
 				ResourceLocation.withDefaultNamespace("textures/entity/rabbit/black.png"));
